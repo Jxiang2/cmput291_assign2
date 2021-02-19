@@ -1,0 +1,84 @@
+Question 1 - jxiang2
+Lillian|Bounds|213-555-5556
+Davood|Rafiei|780-111-2222
+
+Question 2 - jxiang2
+Q2|BothSameParent
+Q2|OnlyMother
+Q2|OnlyFather
+
+Question 3 - jxiang2
+Q2|BothSameParent
+Q2|OnlyMother
+Q2|OnlyFather
+Q3|MGDaughterD
+Q3|MGSonSon
+Q3|FGDaughterD
+Q3|FGSonSon
+
+Question 4 - jxiang2
+Q4|MFOld
+Q4|MFOld2
+
+Question 5 - jxiang2
+Q5|Multi20
+Q5|Single20
+
+Question 6 - jxiang2
+Q6|MarNew
+
+Question 7 - jxiang2
+black|1|30.0|30
+red|2|26.25|60
+white|2|11.2222222222222|15
+
+Question 8 - jxiang2
+1964|Mercedes|black
+1969|Chevrolet|white
+2012|Toyoto|white
+2013|Toyoto|white
+2014|Mercedes|white
+2015|Audi|white
+2016|Audi|white
+
+Question 9 - jxiang2
+Amalia|Kane|1928-07-03|Marvin Plains, OK|0|1
+Davood|Rafiei|1998-10-07|Iran|2|4
+Horace|Combs|1965-10-02|Anaheim, US|0|0
+John|Truyens|1907-05-15|Flanders, Belgium|0|0
+Lillian|Bounds|1899-02-15|Spalding, Idaho|0|1
+MF|FGrandFather|1944-12-25|St John, NB|0|0
+MF|MGrandFather|1944-12-25|St John, NB|0|0
+Mia|Warner|1944-12-25|St John, NB|2|5
+Michael|Fox|1961-06-09|Edmonton, AB|0|0
+Mickey|Mouse|1928-01-05|Disneyland, FL|0|0
+Minnie|Mouse|1928-02-04|Anaheim, US|0|3
+Q2|BothSameParent|1944-12-25|St John, NB|0|0
+Q2|NULLFather|1944-12-25|St John, NB|0|0
+Q2|OnlyFather|1944-12-25|St John, NB|0|0
+Q2|OnlyMother|1944-12-25|St John, NB|0|0
+Q3|FGDaughter|1944-12-25|St John, NB|0|0
+Q3|FGDaughterD|1944-12-25|St John, NB|0|0
+Q3|FGSon|1944-12-25|St John, NB|0|0
+Q3|FGSonSon|1944-12-25|St John, NB|0|0
+Q3|MGDaughter|1944-12-25|St John, NB|0|0
+Q3|MGDaughterD|1944-12-25|St John, NB|0|0
+Q3|MGSon|1944-12-25|St John, NB|0|0
+Q3|MGSonSon|1944-12-25|St John, NB|0|0
+Q4|MFMid|2001-08-15|St John, NB|0|0
+Q4|MFOld|1989-12-25|St John, NB|0|0
+Q4|MFOld2|1989-12-25|St John, NB|0|0
+Q4|MFYoung|2015-07-22|St John, NB|0|0
+Q5|Multi20|1989-12-25|St John, NB|0|0
+Q5|OutOfDate|1989-12-25|St John, NB|0|0
+Q5|Single20|1989-12-25|St John, NB|0|0
+Q6|MarMid|1989-12-25|St John, NB|0|0
+Q6|MarNew|1989-12-25|St John, NB|0|0
+Q6|MarOld|1989-12-25|St John, NB|0|0
+Q9|CarnoTick|1989-12-25|St John, NB|1|0
+Stacey|Long|1953-05-15|Halifax, NS|0|0
+Throw|Away|1944-12-25|St John, NB|0|0
+Walt|Disney|1901-12-05|Chicago, US|0|0
+Wendy|Ballard|1953-05-15|Halifax, NS|0|0
+
+Question 10 - jxiang2
